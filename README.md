@@ -1,6 +1,6 @@
 # Secured_Area_2_Way_Verification
 
-# This peripheral project for VIP area verification through an RFID card and keypad password system provides enhanced security, access control flexibility, convenience, auditing capabilities, integration with existing systems, and a user-friendly interface. By considering these factors and implementation of this project has effectively ensured the privacy, safety, and convenience of their VIPs while maintaining a high level of security in the restricted area.
+## This peripheral project for VIP area verification through an RFID card and keypad password system provides enhanced security, access control flexibility, convenience, auditing capabilities, integration with existing systems, and a user-friendly interface. By considering these factors and implementation of this project has effectively ensured the privacy, safety, and convenience of their VIPs while maintaining a high level of security in the restricted area.
 
 # Flow Chart
 # ![Flowchart](https://github.com/Nushrat-Tarmin-Meem/Secured_Area_2_Way_Verification/assets/127888834/ca82a243-af26-49ed-ade6-75d783d8951f)
